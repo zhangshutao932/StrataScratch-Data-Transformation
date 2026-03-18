@@ -1,3 +1,5 @@
+Event Data Transformation
+
 This project focuses on transforming semi-structured event data (JSON format) into structured, analytics-ready tabular datasets. The goal is to design a clean and reproducible ETL pipeline that converts raw application event logs into curated CSV tables for downstream analytics and business intelligence use cases.
 
 The dataset originates from Chama’s mobile applications and backend systems, where event payloads are stored as nested JSON strings. These payloads must be flattened, cleaned, and standardized to ensure data quality and usability.
