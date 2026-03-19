@@ -6,6 +6,8 @@ The dataset originates from Chama’s mobile applications and backend systems, w
 
 ## 🌌 patterns unique to this project
 
+Data cleaning and feature extraction logic are encapsulated into reusable transformation functions, which are then applied across the dataset to maintain consistency and modularity.
+
 ## 🎯 Objective
 
 Transform the raw case.json event dataset into three structured CSV tables:
