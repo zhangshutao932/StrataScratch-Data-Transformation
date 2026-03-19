@@ -4,6 +4,8 @@ This project focuses on transforming semi-structured event data (JSON format) in
 
 The dataset originates from Chama’s mobile applications and backend systems, where event payloads are stored as nested JSON strings. These payloads must be flattened, cleaned, and standardized to ensure data quality and usability.
 
+## 🌌 patterns unique to this project
+
 ## 🎯 Objective
 
 Transform the raw case.json event dataset into three structured CSV tables:
